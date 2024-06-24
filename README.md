@@ -1,5 +1,5 @@
 # CS117.O21.KHTN
-COMPUTATIONAL THINKING
+COMPUTATIONAL THINKING\n
 THÀNH VIÊN NHÓM
 STT	MSSV	Họ và Tên	Chức Vụ	Github	Email
 1	19521676	Đỗ Trọng Khánh	Nhóm trưởng	trong-khanh-1109	19521676@gm.uit.edu.vn
